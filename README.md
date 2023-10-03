@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Megachitor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Megachitor/Megachitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in programming, 3d Modelling and  engineering
+- 🌱 I’m currently learning "Machine Learning" and Game Dev
+- 💞️ I’m looking to collaborate on some open source projectsm if you interested in, just contact me
+- 📫 How to reach me: @Zmirsolih - Telegram
+                       zmirsolih06@gmail.com - E-mail
