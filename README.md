@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Megachitor
+- 👋 Hi, I’m Mirsolih
 - 👀 I’m interested in programming, 3d Modelling and  engineering
 - 🌱 I’m currently learning Backend and Game Dev
 - 💞️ I’m looking to collaborate on some open source projects dm if you interested in, just contact me
